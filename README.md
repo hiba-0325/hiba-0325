@@ -12,7 +12,7 @@
 
 ### 📊 Leetcode stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/anaspxr)
+![Leetcode Stats](https://leetcard.jacoblin.cool/hibakm)
 
 <br>
   
