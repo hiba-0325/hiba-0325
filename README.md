@@ -14,9 +14,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hiba-0325&theme=dark&hide_border=false)<br/>
 
-### 📊LeetCode Stats:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/hibakm)
 
 <br>
   
