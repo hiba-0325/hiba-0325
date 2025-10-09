@@ -8,13 +8,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **MERN Stack Developer** and **AI Agent enthusiast** who loves building innovative solutions and exploring cutting-edge technologies.  
-Currently diving deep into the world of **AI automation** and **workflow orchestration**, while crafting seamless web experiences.
+I'm a passionate **MERN Stack Developer** and **AI Agent enthusiast** who loves building ai solutions and exploring new technologies.  
+Currently diving into the world of **AI automation** and **workflow orchestration**, 
 
 - 💼 **Web Developer** at **Corpaia**
 - 🎓 Former Intern at **Bridgeon**
 - 🤖 Exploring **AI Agent Technology** & **n8n Automation**
-- 🔨 Currently Building: **X (Twitter) Clone** with advanced features
+- 🔨 Currently Building: **a custom voice agent* with advanced livekit features
 - 🎨 Creative Side: Drawing, music exploration, and UI/UX design
 - 🌱 Always Learning: New frameworks, tools, and best practices
 
@@ -41,12 +41,15 @@ Currently diving deep into the world of **AI automation** and **workflow orchest
 
 ### 🧩 Tools & Platforms
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+
 
 ### 🧠 Currently Exploring
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
