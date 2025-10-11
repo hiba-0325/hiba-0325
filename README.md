@@ -111,10 +111,9 @@ Exploring automation workflows and AI-powered solutions using n8n and various AP
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23167CB8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-%23167CB8?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23BF9264?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23167CB8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiba-km-94125b322/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hibakm72@gmail.com)
 
 </div>
 
